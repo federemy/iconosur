@@ -1,0 +1,25 @@
+h2 {
+  color: #0a3853;
+  font-size: 26px;
+  font-family:'avenirnext-600';
+}
+
+.vermas {
+  color: #04857f;
+  font-family:'avenirnext-600';
+  font-size: 12px;
+  text-decoration: none;
+  align-self: center;
+}
+.vermas svg {
+  margin-left: 5px
+}
+
+@media (min-width: 1024px) {
+  h2 {
+    font-size: 32px;
+  }
+  .vermas {
+    font-size: 13px;
+  }
+}
